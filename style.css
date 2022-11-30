@@ -1,0 +1,171 @@
+
+.card {
+    width: 20%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    display: inline-block;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+    background-color: white;
+   text-align: center;
+  }
+  
+  .count{
+
+    display: inline-block;
+    width: 20%;
+  }
+
+  .grid{
+    display: inline-block;
+    width: 20%;
+  }
+
+  .menu-inline{
+    display: inline-block;
+    width:20%;
+  }
+
+  .banner img{
+    margin: 0 50px 0 50px;
+    width: 1200px;
+    height: 600px;
+  }
+
+  .image-container{
+    background-image: url(image/Mask\ group-3.png);
+    padding: 20px 0px 20px 0px;
+    background-position: 20px;
+  }
+
+  .year{
+    font-size: 4rem;
+  }
+  
+.red-head{
+    margin-left: 25% ;
+}
+
+.head-1{
+    font-size: 38px;
+}
+
+.s2{
+    margin-top: 30px;
+}
+
+.se{
+    margin-top: -120px;
+}
+
+.p2{
+    
+    
+    width: 31%;
+    margin: 0px 0px 1px 444px;
+}
+
+.h2 {
+        font-size: 45px;
+        width: 37%;
+        text-align: left;
+        margin-right: 138px;
+    }
+
+    .bg-2{
+        margin: 150PX;
+    }
+
+    .h3{
+        
+    font-size: 45px;
+    width: 49%;
+    text-align: left;
+    margin-right: 138px;
+    }
+
+    .red-head-1{
+        margin-left: 19% ;
+    }
+    .banner-2 img{
+        margin: 0 0px 0 0px;
+    width: 1338px;
+    height: 600px;
+    }
+
+    .red-head-2 {
+        margin-left: 45%;
+        margin-top: -66px;
+    }
+
+    .grid-logo img{
+        display: inline-block;
+    margin-left: 81px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+
+
+.Form {
+    position: relative;
+    top: 283px;
+    left: 374px;
+    transform: translate(-50%, -50%);
+    max-width: 477px;
+    width: 100%;
+    background: darkblue;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.Form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: white;
+  font-size: 35px;
+ 
+}
+
+.Form .input_field {
+  margin-bottom: 10px;
+}
+
+.Form .input_field input[type="text"],
+.Form textarea {
+  border: 1px solid #e0e0e0;
+  width: 100%;
+  padding: 10px;
+}
+
+.Form textarea {
+  resize: none;
+  height: 80px;
+}
+
+.Form .btn input[type="submit"] {
+  border: 0px;
+  margin-top: 15px;
+  padding: 20px;
+  text-align: center;
+  width: 40%;
+  background: #d80606;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: bold;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.sec-2{
+    background-color: darkblue;
+    height: 600px;
+}
